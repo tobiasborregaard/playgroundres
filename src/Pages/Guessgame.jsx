@@ -152,7 +152,7 @@ const handleOptionClick = (option) => {
             
             <div className="grid grid-cols-2 gap-4 mt-4">
                 <div className="col-span-2 w-full place-items-center">
-                What is the long call for {currentkey}?
+                What is the Long call for {currentkey}?
                 </div>
 
                 {question.map((option, index) => (
