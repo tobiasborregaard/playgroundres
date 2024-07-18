@@ -1,0 +1,150 @@
+{
+  "DICE": {
+      "value": "SWITCH G SWARM 0 MIKE",
+      "coverage": "Cover 0 (Bubbles) Hot Calls"
+  },
+  "VEGAS": {
+      "value": "CUB PINCH SWARM 0 MIKE",
+      "coverage": "Cover 0 (Bubbles) Hot Calls"
+  },
+  "WHAM": {
+      "value": "TIGER G PLUG 0 SAM",
+      "coverage": "Cover 0 (Bubbles) Hot Calls"
+  },
+  "MOW": {
+      "value": "CUB MOW 0 SAM",
+      "coverage": "Cover 0 (Bubbles) Hot Calls"
+  },
+  "SHH": {
+      "value": "BEAR MIKE 0",
+      "coverage": "Cover 0 (Bubbles) Hot Calls"
+  },
+  "BOMB": {
+      "value": "UNDER G OPP SICCUM 0 SAM",
+      "coverage": "Cover 0 (Bubbles) Hot Calls"
+  },
+  "MONEY": {
+      "value": "SOLID 1",
+      "coverage": "Cover 1 (Money) Hot Calls"
+  },
+  "CLAW": {
+      "value": "BEAR 1",
+      "coverage": "Cover 1 (Money) Hot Calls"
+  },
+  "GRIZZLY": {
+      "value": "GRIZZLY 1",
+      "coverage": "Cover 1 (Money) Hot Calls"
+  },
+  "WOLVERINE \"X\"": {
+      "value": "SWITCH “G” SWARM WILLY 1",
+      "coverage": "Cover 1 (Money) Hot Calls"
+  },
+  "TRIM": {
+      "value": "CUB SHOW WILLY 1",
+      "coverage": "Cover 1 (Money) Hot Calls"
+  },
+  "WIPE": {
+      "value": "UNDER “G” SPIKE WILLY 1",
+      "coverage": "Cover 1 (Money) Hot Calls"
+  },
+  "WIDOW": {
+      "value": "FLD SWAP WILLY 1",
+      "coverage": "Cover 1 (Money) Hot Calls"
+  },
+  "WATER": {
+      "value": "SWIM 47",
+      "coverage": "2-High Base Hot Calls"
+  },
+  "RETURN": {
+      "value": "SWITCH RETURN 47",
+      "coverage": "2-High Base Hot Calls"
+  },
+  "DRUMS": {
+      "value": "WIDE TURN 47",
+      "coverage": "2-High Base Hot Calls"
+  },
+  "UTAH": {
+      "value": "UNDER 47",
+      "coverage": "2-High Base Hot Calls"
+  },
+  "PUSH": {
+      "value": "FLD 4 PUSH",
+      "coverage": "2-High Base Hot Calls"
+  },
+  "GRENADE": {
+      "value": "UNDER G OPP 47",
+      "coverage": "2-High Base Hot Calls"
+  },
+  "CHEETAH": {
+      "value": "TIGER G 4 PUSH",
+      "coverage": "2-High Base Hot Calls"
+  },
+  "HOT HOT": {
+      "value": "CUB LOOP 9",
+      "coverage": "2-High Base Hot Calls"
+  },
+  "COMBO": {
+      "value": "FLD 6",
+      "coverage": "2-High Base Hot Calls"
+  },
+  "MATCH": {
+      "value": "SWIM G 2 MATCH",
+      "coverage": "2-High Base Hot Calls"
+  },
+  "DOG": {
+      "value": "SWIM G 2 DOG",
+      "coverage": "2-High Base Hot Calls"
+  },
+  "SKY": {
+      "value": "SWITCH ‘G’ 3",
+      "coverage": "Cover 3 Hot Calls"
+  },
+  "OPEN": {
+      "value": "FLD 3 OPEN",
+      "coverage": "Cover 3 Hot Calls"
+  },
+  "CUT": {
+      "value": "CUB SHOW 3",
+      "coverage": "Cover 3 Hot Calls"
+  },
+  "SKY “BUZZ”": {
+      "value": "SWITCH “G” 3",
+      "coverage": "Cover 3 Hot Calls"
+  },
+  "SKY “CARRY”": {
+      "value": "SWITCH “G” 3",
+      "coverage": "Cover 3 Hot Calls"
+  },
+  "SNAKE": {
+      "value": "SOLID SWARM SAMMY 3 SKY",
+      "coverage": "Cover 3 Hot Calls"
+  },
+  "SMOKE": {
+      "value": "FLD STEM SMOKEY 3 SKY",
+      "coverage": "Cover 3 Hot Calls"
+  },
+  "WAX": {
+      "value": "CUB SHOW WILLY 3 SKY",
+      "coverage": "Cover 3 Hot Calls"
+  },
+  "WORM": {
+      "value": "UNDER SWARM WILLY 3 SKY",
+      "coverage": "Cover 3 Hot Calls"
+  },
+  "WEB": {
+      "value": "FIELD SWAP WILLY 3 SKY",
+      "coverage": "Cover 3 Hot Calls"
+  },
+  "WASP": {
+      "value": "SWITCH “G” SWARM WILLY 3 SKY",
+      "coverage": "Cover 3 Hot Calls"
+  },
+  "SWERVE": {
+      "value": "FIELD CRASH SAMMY 3 SKY",
+      "coverage": "Cover 3 Hot Calls"
+  },
+  "WATCH": {
+      "value": "FIELD “G” OPP COBRA 3 ROLEX",
+      "coverage": "Cover 3 Hot Calls"
+  }
+}
