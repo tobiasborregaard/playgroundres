@@ -11,9 +11,8 @@ function App() {
         <Router>
           <Routes>
             <Route path="/" element={<FrontPage />} />
-            <Route path=" " element={<FrontPage />} />
             <Route path='/guessgame' element={<GuessGame/>}/>
-            
+            <Route path="*" element={<h1>404 Not Found</h1>} />
             {/* <Route path="/cart" element={<Cart />} /> */}
             {/* <Route path="/checkout" element={<Checkout />} /> */}
           </Routes>
