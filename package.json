@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://{tobiasborregaard}.github.io/{playgroundres}",
+  "homepage": "http://tobiasborregaard.github.io/playgroundres",
   "eslintConfig": {
     "extends": [
       "react-app",
